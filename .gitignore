@@ -1,0 +1,8 @@
+node_modules
+dist
+.tmp
+.sass-cache
+app/lib
+env.js
+.idea
+.DS_Store

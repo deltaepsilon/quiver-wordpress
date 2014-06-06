@@ -1,0 +1,82 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css({.tmp,app}) styles/main.css -->
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/app/lib/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
+    <!-- endbuild -->
+</head>
+<body ng-app="quiverWordpressApp">
+<!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!-- Add your site or application content here -->
+<div class="container" ng-controller="MainCtrl">
+    <!-- header -->
+    <header class="clear" role="banner">
+        Header
+        <!-- logo -->
+        <div class="logo">
+            <a href="<?php echo home_url(); ?>">
+                Logo
+                <i class="fa fa-pencil"></i>
+            </a>
+        </div>
+        <!-- /logo -->
+
+        <!-- nav -->
+        <nav class="nav top-bar" role="navigation">
+            <a href="#">Navigation</a>
+        </nav>
+        <!-- /nav -->
+
+    </header>
+    <!-- /header -->
+</div>
+
+<!--Get JavaScript environment variables-->
+<script src="<?php echo get_template_directory_uri(); ?>/env.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', window.quiverEnv.analytics);
+    ga('send', 'pageview');
+</script>
+
+<!--[if lt IE 9]>
+<script src="app/lib/es5-shim/es5-shim.js"></script>
+<script src="app/lib/json3/lib/json3.min.js"></script>
+<![endif]-->
+
+<!-- build:js scripts/vendor.js -->
+<!-- bower:js -->
+<script src="<?php echo get_template_directory_uri(); ?>/app/lib/angular/angular.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/app/lib/angular-sanitize/angular-sanitize.js"></script>
+<!-- endbower -->
+<!-- endbuild -->
+
+<!-- build:js({.tmp,app}) scripts/scripts.js -->
+<script src="<?php echo get_template_directory_uri(); ?>/app/scripts/app.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/app/scripts/controllers/main.js"></script>
+<!-- endbuild -->
+</body>
+</html>
