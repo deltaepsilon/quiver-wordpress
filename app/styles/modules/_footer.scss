@@ -1,0 +1,35 @@
+.footer {
+  @extend .background-secondary3;
+
+  a, a:visited {
+    @extend .text-white;
+  }
+
+  a:hover {
+    @extend .text-white;
+    @extend .background-primary1;
+  }
+
+  ul {
+    overflow: hidden;
+    margin: 0;
+  }
+
+  li {
+    display: block;
+    float: left;
+  }
+
+  a {
+    display: block;
+    margin: 0;
+    padding: 0 2rem;
+    text-transform: uppercase;
+  }
+
+  li:last-of-type {
+    a {
+      margin-right: 0;
+    }
+  }
+}

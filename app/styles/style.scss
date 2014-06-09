@@ -9,9 +9,19 @@
 @import "compass/css3/transform";
 @import "compass/utilities/general/clearfix";
 
-@import "settings";
+// Theme
+@import "theme/color";
+@import "theme/font";
+
+// Imports
+@import "imports/mixins";
+@import "imports/retina-sprites";
+@import "imports/sprites";
+
 
 // Behold, here are all the Foundation components.
+@import "settings";
+
 @import
 //"../lib/foundation/scss/foundation/components/accordion",
 //"../lib/foundation/scss/foundation/components/alert-boxes",
@@ -19,7 +29,7 @@
 //"../lib/foundation/scss/foundation/components/breadcrumbs",
 "../lib/foundation/scss/foundation/components/button-groups",
 "../lib/foundation/scss/foundation/components/buttons",
-//"../lib/foundation/scss/foundation/components/clearing",
+"../lib/foundation/scss/foundation/components/clearing",
 //"../lib/foundation/scss/foundation/components/dropdown",
 //"../lib/foundation/scss/foundation/components/dropdown-buttons",
 //"../lib/foundation/scss/foundation/components/flex-video",
@@ -36,7 +46,7 @@
 //"../lib/foundation/scss/foundation/components/pricing-tables",
 //"../lib/foundation/scss/foundation/components/progress-bars",
 //"../lib/foundation/scss/foundation/components/reveal",
-//"../lib/foundation/scss/foundation/components/side-nav",
+"../lib/foundation/scss/foundation/components/side-nav",
 //"../lib/foundation/scss/foundation/components/split-buttons",
 //"../lib/foundation/scss/foundation/components/sub-nav",
 //"../lib/foundation/scss/foundation/components/switch",
@@ -45,17 +55,14 @@
 //"../lib/foundation/scss/foundation/components/thumbs",
 //"../lib/foundation/scss/foundation/components/tooltips",
 "../lib/foundation/scss/foundation/components/top-bar",
-//"../lib/foundation/scss/foundation/components/type",
+"../lib/foundation/scss/foundation/components/type",
 //"../lib/foundation/scss/foundation/components/offcanvas",
 "../lib/foundation/scss/foundation/components/visibility"
 ;
 
-
-// Theme
-@import "theme/color";
-@import "theme/font";
-
-// Imports
-@import "imports/mixins";
-@import "imports/retina-sprites";
-@import "imports/sprites";
+// Modules
+@import "modules/footer";
+@import "modules/layout";
+@import "modules/nav";
+@import "modules/posts";
+@import "modules/sidebar";

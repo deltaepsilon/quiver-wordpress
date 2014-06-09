@@ -63,6 +63,213 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-primary0 {
+  background-color: #333333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-primary1, .footer a:hover {
+  background-color: #98ccb6;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-primary2 {
+  background-color: #177f62;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-secondary0 {
+  background-color: #e7e8e9;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-secondary1 {
+  background-color: #f2f2f2;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-secondary2 {
+  background-color: #dddddd;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-secondary3, .footer {
+  background-color: #414141;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-secondary4 {
+  background-color: #999999;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-highlight0 {
+  background-color: #bd3f42;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-highlight1, #header-text h2, #header-text h5 {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-success0 {
+  background-color: #177f62;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-warning0 {
+  background-color: #bd3f42;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-info0 {
+  background-color: #dddddd;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-gray {
+  background-color: #333333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-white {
+  background-color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
+.background-black {
+  background-color: black;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-primary0 {
+  color: #333333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-primary1 {
+  color: #98ccb6;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-primary2 {
+  color: #177f62;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-secondary0 {
+  color: #e7e8e9;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-secondary1 {
+  color: #f2f2f2;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-secondary2 {
+  color: #dddddd;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-secondary3 {
+  color: #414141;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-secondary4 {
+  color: #999999;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-highlight0 {
+  color: #bd3f42;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-highlight1 {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-success0 {
+  color: #177f62;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-warning0 {
+  color: #bd3f42;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-info0 {
+  color: #dddddd;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-gray {
+  color: #333333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-white, .footer a, .footer a:visited, .footer a:hover, #header-text h2, #header-text h5 {
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
+.text-black {
+  color: black;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-xx-small {
+  font-size: 0.625rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-x-small {
+  font-size: 0.75rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-small {
+  font-size: 0.875rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-medium {
+  font-size: 1rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-x-medium {
+  font-size: 1.125rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-large {
+  font-size: 1.25rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
+.text-x-large {
+  font-size: 2.1875rem;
+}
+
+/*
+ * Retina Sprites for Compass
+ * by:              Gaya Kessler
+ * last update:     01/14/13
+ *
+ * Usage:
+ * 1. create two folders in your image directory (in this case 'icons' and 'icons-2x').
+ * 2. adjust the foldernames defined below if you use different names.
+ * 3. create sprite images for pixel ratio 1 screens and put them in the first folder.
+ * 4. create sprite images for pixel ratio 2 screens and put them in the second folder, use the same filenames.
+ * 5. use the sprite-image in your Sass/Scss using: '@include use-sprite(<sprite-name>)'
+ */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003324}}
 meta.foundation-version {
   font-family: "/5.2.3/";
@@ -761,14 +968,14 @@ button, .button {
   padding-bottom: 1.0625rem;
   padding-left: 2rem;
   font-size: 1rem;
-  background-color: #008cba;
-  border-color: #007095;
+  background-color: #333333;
+  border-color: #292929;
   color: white;
   transition: background-color 300ms ease-out;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #007095;
+  background-color: #292929;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 button:hover, button:focus, .button:hover, .button:focus {
@@ -776,13 +983,13 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003193}}
 button.secondary, .button.secondary {
-  background-color: #e7e7e7;
-  border-color: #b9b9b9;
+  background-color: #e7e8e9;
+  border-color: #b7babd;
   color: #333333;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-  background-color: #b9b9b9;
+  background-color: #b7babd;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003140}}
 button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
@@ -790,13 +997,13 @@ button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003194}}
 button.success, .button.success {
-  background-color: #43ac6a;
-  border-color: #368a55;
+  background-color: #177f62;
+  border-color: #12664e;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  background-color: #368a55;
+  background-color: #12664e;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
@@ -804,13 +1011,13 @@ button.success:hover, button.success:focus, .button.success:hover, .button.succe
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003195}}
 button.alert, .button.alert {
-  background-color: #f04124;
-  border-color: #cf2a0e;
+  background-color: #bd3f42;
+  border-color: #973235;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
-  background-color: #cf2a0e;
+  background-color: #973235;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
@@ -866,8 +1073,8 @@ button.round, .button.round {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003208}}
 button.disabled, button[disabled], .button.disabled, .button[disabled] {
-  background-color: #008cba;
-  border-color: #007095;
+  background-color: #333333;
+  border-color: #292929;
   color: white;
   cursor: default;
   opacity: 0.7;
@@ -875,7 +1082,7 @@ button.disabled, button[disabled], .button.disabled, .button[disabled] {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #007095;
+  background-color: #292929;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
@@ -883,12 +1090,12 @@ button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[dis
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003155}}
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #008cba;
+  background-color: #333333;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003209}}
 button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
-  background-color: #e7e7e7;
-  border-color: #b9b9b9;
+  background-color: #e7e8e9;
+  border-color: #b7babd;
   color: #333333;
   cursor: default;
   opacity: 0.7;
@@ -896,7 +1103,7 @@ button.disabled.secondary, button[disabled].secondary, .button.disabled.secondar
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #b9b9b9;
+  background-color: #b7babd;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003140}}
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
@@ -904,12 +1111,12 @@ button.disabled.secondary:hover, button.disabled.secondary:focus, button[disable
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003155}}
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #e7e7e7;
+  background-color: #e7e8e9;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003210}}
 button.disabled.success, button[disabled].success, .button.disabled.success, .button[disabled].success {
-  background-color: #43ac6a;
-  border-color: #368a55;
+  background-color: #177f62;
+  border-color: #12664e;
   color: white;
   cursor: default;
   opacity: 0.7;
@@ -917,7 +1124,7 @@ button.disabled.success, button[disabled].success, .button.disabled.success, .bu
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #368a55;
+  background-color: #12664e;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
@@ -925,12 +1132,12 @@ button.disabled.success:hover, button.disabled.success:focus, button[disabled].s
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003155}}
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #43ac6a;
+  background-color: #177f62;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003211}}
 button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[disabled].alert {
-  background-color: #f04124;
-  border-color: #cf2a0e;
+  background-color: #bd3f42;
+  border-color: #973235;
   color: white;
   cursor: default;
   opacity: 0.7;
@@ -938,7 +1145,7 @@ button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[d
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-  background-color: #cf2a0e;
+  background-color: #973235;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
@@ -946,7 +1153,7 @@ button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003155}}
 button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-  background-color: #f04124;
+  background-color: #bd3f42;
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -1165,6 +1372,249 @@ button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert
   overflow: hidden;
 }
 
+/* Clearing Styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000344}}
+.clearing-thumbs, [data-clearing] {
+  margin-bottom: 0;
+  margin-left: 0;
+  list-style: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003176}}
+.clearing-thumbs:before, .clearing-thumbs:after, [data-clearing]:before, [data-clearing]:after {
+  content: " ";
+  display: table;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003177}}
+.clearing-thumbs:after, [data-clearing]:after {
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000350}}
+.clearing-thumbs li, [data-clearing] li {
+  float: left;
+  margin-right: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000355}}
+.clearing-thumbs[class*="block-grid-"] li, [data-clearing][class*="block-grid-"] li {
+  margin-right: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000360}}
+.clearing-blackout {
+  background: #333333;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 998;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000369}}
+.clearing-blackout .clearing-close {
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000372}}
+.clearing-container {
+  position: relative;
+  z-index: 998;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000380}}
+.clearing-touch-label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #aaa;
+  font-size: 0.6em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000388}}
+.visible-img {
+  height: 95%;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\0000392}}
+.visible-img img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -50%;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003102}}
+.clearing-caption {
+  color: #cccccc;
+  font-size: 0.875em;
+  line-height: 1.3;
+  margin-bottom: 0;
+  text-align: center;
+  bottom: 0;
+  background: #333333;
+  width: 100%;
+  padding: 10px 30px 20px;
+  position: absolute;
+  left: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003116}}
+.clearing-close {
+  z-index: 999;
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 30px;
+  line-height: 1;
+  color: #cccccc;
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003126}}
+.clearing-close:hover, .clearing-close:focus {
+  color: #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003129}}
+.clearing-assembled .clearing-container {
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003130}}
+.clearing-assembled .clearing-container .carousel > ul {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003134}}
+.clearing-feature li {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003136}}
+.clearing-feature li.clearing-featured-img {
+  display: block;
+}
+
+@media only screen and (min-width: 40.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003144}}
+  .clearing-main-prev,
+  .clearing-main-next {
+    position: absolute;
+    height: 100%;
+    width: 40px;
+    top: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003149}}
+  .clearing-main-prev > span,
+  .clearing-main-next > span {
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 0;
+    height: 0;
+    border: solid 12px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003156}}
+  .clearing-main-prev > span:hover,
+  .clearing-main-next > span:hover {
+    opacity: 0.8;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003159}}
+  .clearing-main-prev {
+    left: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003161}}
+  .clearing-main-prev > span {
+    left: 5px;
+    border-color: transparent;
+    border-right-color: #cccccc;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003167}}
+  .clearing-main-next {
+    right: 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003169}}
+  .clearing-main-next > span {
+    border-color: transparent;
+    border-left-color: #cccccc;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003176}}
+  .clearing-main-prev.disabled,
+  .clearing-main-next.disabled {
+    opacity: 0.3;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003180}}
+  .clearing-assembled .clearing-container .carousel {
+    background: rgba(51, 51, 51, 0.8);
+    height: 120px;
+    margin-top: 10px;
+    text-align: center;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003186}}
+  .clearing-assembled .clearing-container .carousel > ul {
+    display: inline-block;
+    z-index: 999;
+    height: 100%;
+    position: relative;
+    float: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003193}}
+  .clearing-assembled .clearing-container .carousel > ul li {
+    display: block;
+    width: 120px;
+    min-height: inherit;
+    float: left;
+    overflow: hidden;
+    margin-right: 0;
+    padding: 0;
+    position: relative;
+    cursor: pointer;
+    opacity: 0.4;
+    clear: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003207}}
+  .clearing-assembled .clearing-container .carousel > ul li.fix-height img {
+    height: 100%;
+    max-width: none;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003213}}
+  .clearing-assembled .clearing-container .carousel > ul li a.th {
+    border: none;
+    box-shadow: none;
+    display: block;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003219}}
+  .clearing-assembled .clearing-container .carousel > ul li img {
+    cursor: pointer !important;
+    width: 100% !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003224}}
+  .clearing-assembled .clearing-container .carousel > ul li.visible {
+    opacity: 1;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003225}}
+  .clearing-assembled .clearing-container .carousel > ul li:hover {
+    opacity: 0.8;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003230}}
+  .clearing-assembled .clearing-container .visible-img {
+    background: #333333;
+    overflow: hidden;
+    height: 85%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_clearing\.scss}line{font-family:\00003237}}
+  .clearing-close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    padding-left: 0;
+    padding-top: 0;
+  }
+}
 /* Standard Forms */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_forms\.scss}line{font-family:\00003328}}
 form {
@@ -1553,7 +2003,7 @@ fieldset legend {
   font-size: 0.75rem;
   font-weight: normal;
   font-style: italic;
-  background: #f04124;
+  background: #bd3f42;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_forms\.scss}line{font-family:\00003446}}
@@ -1570,7 +2020,7 @@ span.error, small.error {
   font-size: 0.75rem;
   font-weight: normal;
   font-style: italic;
-  background: #f04124;
+  background: #bd3f42;
   color: white;
 }
 
@@ -1588,7 +2038,7 @@ span.error, small.error {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_forms\.scss}line{font-family:\00003466}}
 .error label,
 .error label.error {
-  color: #f04124;
+  color: #bd3f42;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_forms\.scss}line{font-family:\00003470}}
 .error small.error {
@@ -1599,7 +2049,7 @@ span.error, small.error {
   font-size: 0.75rem;
   font-weight: normal;
   font-style: italic;
-  background: #f04124;
+  background: #bd3f42;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_forms\.scss}line{font-family:\00003475}}
@@ -1626,7 +2076,7 @@ textarea.error {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_forms\.scss}line{font-family:\00003496}}
 label.error {
-  color: #f04124;
+  color: #bd3f42;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_grid\.scss}line{font-family:\00003206}}
@@ -3075,6 +3525,54 @@ label.error {
   display: block;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\00003113}}
+.side-nav, .sidebar .menu {
+  display: block;
+  margin: 0;
+  padding: 0.875rem 0;
+  list-style-type: none;
+  list-style-position: inside;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\0000370}}
+.side-nav li, .sidebar .menu li {
+  margin: 0 0 0.4375rem 0;
+  font-size: 0.875rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\0000374}}
+.side-nav li a:not(.button), .sidebar .menu li a:not(.button) {
+  display: block;
+  color: #333333;
+  margin: 0;
+  padding: 0.4375rem 0.875rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\0000380}}
+.side-nav li a:not(.button):hover, .sidebar .menu li a:not(.button):hover, .side-nav li a:not(.button):focus, .sidebar .menu li a:not(.button):focus {
+  background: rgba(0, 0, 0, 0.025);
+  color: #707070;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\0000386}}
+.side-nav li.active > a:first-child:not(.button), .sidebar .menu li.active > a:first-child:not(.button) {
+  color: #707070;
+  font-weight: normal;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\0000392}}
+.side-nav li.divider, .sidebar .menu li.divider {
+  border-top: 1px solid;
+  height: 0;
+  padding: 0;
+  list-style: none;
+  border-top-color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_side-nav\.scss}line{font-family:\00003100}}
+.side-nav li.heading, .sidebar .menu li.heading {
+  color: #333333;
+  font-size: 0.875rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003103}}
 meta.foundation-mq-topbar {
   font-family: "/only screen and (min-width:40.063em)/";
@@ -3085,7 +3583,7 @@ meta.foundation-mq-topbar {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003109}}
 .contain-to-grid {
   width: 100%;
-  background: #333333;
+  background: #414141;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003113}}
 .contain-to-grid .top-bar {
@@ -3125,7 +3623,7 @@ meta.foundation-mq-topbar {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #333333;
+  background: #414141;
   margin-bottom: 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003152}}
@@ -3238,7 +3736,7 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003258}}
 .top-bar.expanded .title-area {
-  background: #333333;
+  background: #414141;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003261}}
 .top-bar.expanded .toggle-topbar a {
@@ -3268,7 +3766,7 @@ meta.foundation-mq-topbar {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003293}}
 .top-bar-section .divider,
 .top-bar-section [role="separator"] {
-  border-top: solid 1px #1a1a1a;
+  border-top: solid 1px #212121;
   clear: both;
   height: 1px;
   width: 100%;
@@ -3287,20 +3785,20 @@ meta.foundation-mq-topbar {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 0.8125rem;
   font-weight: normal;
-  text-transform: none;
+  text-transform: uppercase;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003314}}
 .top-bar-section ul li > a.button {
   font-size: 0.8125rem;
   padding-right: 15px;
   padding-left: 15px;
-  background-color: #008cba;
-  border-color: #007095;
+  background-color: #333333;
+  border-color: #292929;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-  background-color: #007095;
+  background-color: #292929;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
@@ -3308,13 +3806,13 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003320}}
 .top-bar-section ul li > a.button.secondary {
-  background-color: #e7e7e7;
-  border-color: #b9b9b9;
+  background-color: #e7e8e9;
+  border-color: #b7babd;
   color: #333333;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-  background-color: #b9b9b9;
+  background-color: #b7babd;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003140}}
 .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
@@ -3322,13 +3820,13 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003321}}
 .top-bar-section ul li > a.button.success {
-  background-color: #43ac6a;
-  border-color: #368a55;
+  background-color: #177f62;
+  border-color: #12664e;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
-  background-color: #368a55;
+  background-color: #12664e;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
@@ -3336,13 +3834,13 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003322}}
 .top-bar-section ul li > a.button.alert {
-  background-color: #f04124;
-  border-color: #cf2a0e;
+  background-color: #bd3f42;
+  border-color: #973235;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > a.button.alert:hover, .top-bar-section ul li > a.button.alert:focus {
-  background-color: #cf2a0e;
+  background-color: #973235;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 .top-bar-section ul li > a.button.alert:hover, .top-bar-section ul li > a.button.alert:focus {
@@ -3353,13 +3851,13 @@ meta.foundation-mq-topbar {
   font-size: 0.8125rem;
   padding-right: 15px;
   padding-left: 15px;
-  background-color: #008cba;
-  border-color: #007095;
+  background-color: #333333;
+  border-color: #292929;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
-  background-color: #007095;
+  background-color: #292929;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
@@ -3367,13 +3865,13 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003331}}
 .top-bar-section ul li > button.secondary {
-  background-color: #e7e7e7;
-  border-color: #b9b9b9;
+  background-color: #e7e8e9;
+  border-color: #b7babd;
   color: #333333;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
-  background-color: #b9b9b9;
+  background-color: #b7babd;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003140}}
 .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
@@ -3381,13 +3879,13 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003332}}
 .top-bar-section ul li > button.success {
-  background-color: #43ac6a;
-  border-color: #368a55;
+  background-color: #177f62;
+  border-color: #12664e;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
-  background-color: #368a55;
+  background-color: #12664e;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
@@ -3395,13 +3893,13 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003333}}
 .top-bar-section ul li > button.alert {
-  background-color: #f04124;
-  border-color: #cf2a0e;
+  background-color: #bd3f42;
+  border-color: #973235;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003134}}
 .top-bar-section ul li > button.alert:hover, .top-bar-section ul li > button.alert:focus {
-  background-color: #cf2a0e;
+  background-color: #973235;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_buttons\.scss}line{font-family:\00003145}}
 .top-bar-section ul li > button.alert:hover, .top-bar-section ul li > button.alert:focus {
@@ -3409,17 +3907,17 @@ meta.foundation-mq-topbar {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003337}}
 .top-bar-section ul li:hover:not(.has-form) > a {
-  background: #272727;
+  background: #98ccb6;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003344}}
 .top-bar-section ul li.active > a {
-  background: #008cba;
+  background: #177f62;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003347}}
 .top-bar-section ul li.active > a:hover {
-  background: #0078a0;
+  background: #2c2c2c;
   color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003355}}
@@ -3529,7 +4027,7 @@ meta.foundation-mq-topbar {
 @media only screen and (min-width: 40.063em) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003435}}
   .top-bar {
-    background: #333333;
+    background: #414141;
     overflow: visible;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_global\.scss}line{font-family:\00003176}}
@@ -3563,7 +4061,7 @@ meta.foundation-mq-topbar {
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003453}}
   .top-bar.expanded {
-    background: #333333;
+    background: #414141;
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003456}}
@@ -3594,29 +4092,29 @@ meta.foundation-mq-topbar {
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003479}}
   .top-bar-section li.hover > a:not(.button) {
-    background: #272727;
+    background: #98ccb6;
     color: white;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003485}}
   .top-bar-section li:not(.has-form) a:not(.button) {
     padding: 0 15px;
     line-height: 45px;
-    background: #333333;
+    background: #414141;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003489}}
   .top-bar-section li:not(.has-form) a:not(.button):hover {
-    background: #272727;
+    background: #98ccb6;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003493}}
   .top-bar-section li.active:not(.has-form) a:not(.button) {
     padding: 0 15px;
     line-height: 45px;
     color: white;
-    background: #008cba;
+    background: #177f62;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003498}}
   .top-bar-section li.active:not(.has-form) a:not(.button):hover {
-    background: #0078a0;
+    background: #2c2c2c;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003507}}
   .top-bar-section .has-dropdown > a {
@@ -3689,7 +4187,7 @@ meta.foundation-mq-topbar {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003564}}
   .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
     color: white;
-    background: #272727;
+    background: #98ccb6;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003569}}
   .top-bar-section .dropdown li label {
@@ -3705,14 +4203,14 @@ meta.foundation-mq-topbar {
   .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
     border-bottom: none;
     border-top: none;
-    border-right: solid 1px #4e4e4e;
+    border-right: solid 1px #5a5a5a;
     clear: none;
     height: 45px;
     width: 0;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003592}}
   .top-bar-section .has-form {
-    background: #333333;
+    background: #414141;
     padding: 0 15px;
     height: 45px;
   }
@@ -3737,12 +4235,12 @@ meta.foundation-mq-topbar {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003622}}
   .no-js .top-bar-section ul li:hover > a {
-    background: #272727;
+    background: #98ccb6;
     color: white;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003628}}
   .no-js .top-bar-section ul li:active > a {
-    background: #008cba;
+    background: #177f62;
     color: white;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_top-bar\.scss}line{font-family:\00003636}}
@@ -3754,6 +4252,686 @@ meta.foundation-mq-topbar {
     overflow: visible;
     clip: auto;
     position: absolute !important;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003150}}
+.text-left {
+  text-align: left !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003151}}
+.text-right {
+  text-align: right !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003152}}
+.text-center {
+  text-align: center !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003153}}
+.text-justify {
+  text-align: justify !important;
+}
+
+@media only screen and (max-width: 40em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .small-only-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .small-only-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .small-only-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .small-only-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .small-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .small-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .small-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .small-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .medium-only-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .medium-only-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .medium-only-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .medium-only-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 40.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .medium-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .medium-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .medium-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .medium-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .large-only-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .large-only-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .large-only-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .large-only-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .large-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .large-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .large-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .large-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 90.063em) and (max-width: 120em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .xlarge-only-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .xlarge-only-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .xlarge-only-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .xlarge-only-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 90.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .xlarge-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .xlarge-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .xlarge-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .xlarge-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 120.063em) and (max-width: 99999999em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .xxlarge-only-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .xxlarge-only-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .xxlarge-only-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .xxlarge-only-text-justify {
+    text-align: justify !important;
+  }
+}
+@media only screen and (min-width: 120.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003157}}
+  .xxlarge-text-left {
+    text-align: left !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003158}}
+  .xxlarge-text-right {
+    text-align: right !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003159}}
+  .xxlarge-text-center {
+    text-align: center !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003160}}
+  .xxlarge-text-justify {
+    text-align: justify !important;
+  }
+}
+/* Typography resets */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003206}}
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+/* Default Link Styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003212}}
+a {
+  color: #333333;
+  text-decoration: none;
+  line-height: inherit;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003218}}
+a:hover, a:focus {
+  color: #2c2c2c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003225}}
+a img {
+  border: none;
+}
+
+/* Default paragraph styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003229}}
+p {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  text-rendering: optimizeLegibility;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003237}}
+p.lead {
+  font-size: 1.21875rem;
+  line-height: 1.6;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003239}}
+p aside {
+  font-size: 0.875rem;
+  line-height: 1.35;
+  font-style: italic;
+}
+
+/* Default header styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003247}}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #222222;
+  text-rendering: optimizeLegibility;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003257}}
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+  font-size: 60%;
+  color: #6f6f6f;
+  line-height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003264}}
+h1 {
+  font-size: 2.125rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003265}}
+h2 {
+  font-size: 1.6875rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003266}}
+h3 {
+  font-size: 1.375rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003267}}
+h4 {
+  font-size: 1.125rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003268}}
+h5 {
+  font-size: 1.125rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003269}}
+h6 {
+  font-size: 1rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003271}}
+.subheader {
+  line-height: 1.4;
+  color: #6f6f6f;
+  font-weight: normal;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003273}}
+hr {
+  border: solid #dddddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 1.25rem 0 1.1875rem;
+  height: 0;
+}
+
+/* Helpful Typography Defaults */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003283}}
+em,
+i {
+  font-style: italic;
+  line-height: inherit;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003289}}
+strong,
+b {
+  font-weight: bold;
+  line-height: inherit;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003294}}
+small {
+  font-size: 60%;
+  line-height: inherit;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003299}}
+code {
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-weight: bold;
+  color: #8a2e30;
+}
+
+/* Lists */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003308}}
+ul,
+ol,
+dl {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  list-style-position: outside;
+  font-family: inherit;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003316}}
+ul {
+  margin-left: 1.1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003318}}
+ul.no-bullet {
+  margin-left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003322}}
+ul.no-bullet li ul,
+ul.no-bullet li ol {
+  margin-left: 1.25rem;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+/* Unordered Lists */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003335}}
+ul li ul,
+ul li ol {
+  margin-left: 1.25rem;
+  margin-bottom: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003343}}
+ul.square li ul, ul.circle li ul, ul.disc li ul {
+  list-style: inherit;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003346}}
+ul.square {
+  list-style-type: square;
+  margin-left: 1.1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003347}}
+ul.circle {
+  list-style-type: circle;
+  margin-left: 1.1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003348}}
+ul.disc {
+  list-style-type: disc;
+  margin-left: 1.1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003349}}
+ul.no-bullet {
+  list-style: none;
+}
+
+/* Ordered Lists */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003353}}
+ol {
+  margin-left: 1.4rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003357}}
+ol li ul,
+ol li ol {
+  margin-left: 1.25rem;
+  margin-bottom: 0;
+}
+
+/* Definition Lists */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003366}}
+dl dt {
+  margin-bottom: 0.3rem;
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003370}}
+dl dd {
+  margin-bottom: 0.75rem;
+}
+
+/* Abbreviations */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003375}}
+abbr,
+acronym {
+  text-transform: uppercase;
+  font-size: 90%;
+  color: #222222;
+  border-bottom: 1px dotted #dddddd;
+  cursor: help;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003382}}
+abbr {
+  text-transform: none;
+}
+
+/* Blockquotes */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003387}}
+blockquote {
+  margin: 0 0 1.25rem;
+  padding: 0.5625rem 1.25rem 0 1.1875rem;
+  border-left: 1px solid #dddddd;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003392}}
+blockquote cite {
+  display: block;
+  font-size: 0.8125rem;
+  color: #555555;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003396}}
+blockquote cite:before {
+  content: "\2014 \0020";
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003401}}
+blockquote cite a,
+blockquote cite a:visited {
+  color: #555555;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003407}}
+blockquote,
+blockquote p {
+  line-height: 1.6;
+  color: #6f6f6f;
+}
+
+/* Microformats */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003413}}
+.vcard {
+  display: inline-block;
+  margin: 0 0 1.25rem 0;
+  border: 1px solid #dddddd;
+  padding: 0.625rem 0.75rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003419}}
+.vcard li {
+  margin: 0;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003423}}
+.vcard .fn {
+  font-weight: bold;
+  font-size: 0.9375rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003430}}
+.vevent .summary {
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003432}}
+.vevent abbr {
+  cursor: default;
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+  padding: 0 0.0625rem;
+}
+
+@media only screen and (min-width: 40.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003443}}
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003444}}
+  h1 {
+    font-size: 2.75rem;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003445}}
+  h2 {
+    font-size: 2.3125rem;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003446}}
+  h3 {
+    font-size: 1.6875rem;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003447}}
+  h4 {
+    font-size: 1.4375rem;
+  }
+}
+/*
+ * Print styles.
+ *
+ * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+ * Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003458}}
+.print-only {
+  display: none !important;
+}
+
+@media print {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003460}}
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003468}}
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003469}}
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003471}}
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003476}}
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003479}}
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003484}}
+  thead {
+    display: table-header-group;
+    /* h5bp.com/t */
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003487}}
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003489}}
+  img {
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 0.5cm;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003495}}
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003501}}
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003503}}
+  .hide-on-print {
+    display: none !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003504}}
+  .print-only {
+    display: block !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003505}}
+  .hide-for-print {
+    display: none !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/lib\/foundation\/scss\/foundation\/components\/_type\.scss}line{font-family:\00003506}}
+  .show-for-print {
+    display: inherit !important;
   }
 }
 /* small displays */
@@ -4278,160 +5456,69 @@ th.hide-for-touch {
     display: table-cell !important;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-green1 {
-  background-color: #98ccb6;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000313}}
+.footer ul {
+  overflow: hidden;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000318}}
+.footer li {
+  display: block;
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000323}}
+.footer a {
+  display: block;
+  margin: 0;
+  padding: 0 2rem;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000331}}
+.footer li:last-of-type a {
+  margin-right: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-green2 {
-  background-color: #177f62;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\000033}}
+#header-image {
+  max-width: 960px;
+  position: absolute;
+  z-index: -1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-gray0 {
-  background-color: #e7e8e9;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\000039}}
+#header-text {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000312}}
+#header-text h2, #header-text h5 {
+  display: inline-block;
+  padding: 0 2rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-gray1 {
-  background-color: #f2f2f2;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000322}}
+.centered-max, .nav .menu, .footer .menu {
+  display: block;
+  max-width: 960px;
+  margin: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-gray2 {
-  background-color: #dddddd;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\000032}}
+.post:last-of-type hr {
+  display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-gray3 {
-  background-color: #414141;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\000037}}
+.post {
+  padding: .875rem 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-gray4 {
-  background-color: #999999;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\0000312}}
+.post-thumbnail {
+  float: left;
+  margin: 0 1rem 1rem 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-red1 {
-  background-color: #bd3f42;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\0000317}}
+.post-title {
+  display: inline;
 }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-gray {
-  background-color: #333333;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-white {
-  background-color: white;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000317}}
-.background-black {
-  background-color: black;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-green1 {
-  color: #98ccb6;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-green2 {
-  color: #177f62;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-gray0 {
-  color: #e7e8e9;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-gray1 {
-  color: #f2f2f2;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-gray2 {
-  color: #dddddd;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-gray3 {
-  color: #414141;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-gray4 {
-  color: #999999;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-red1 {
-  color: #bd3f42;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-gray {
-  color: #333333;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-white {
-  color: white;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000324}}
-.text-black {
-  color: black;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-xx-small {
-  font-size: 0.625rem;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-x-small {
-  font-size: 0.75rem;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-small {
-  font-size: 0.875rem;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-medium {
-  font-size: 1rem;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-x-medium {
-  font-size: 1.125rem;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-large {
-  font-size: 1.25rem;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_font\.scss}line{font-family:\0000327}}
-.text-x-large {
-  font-size: 2.1875rem;
-}
-
-/*
- * Retina Sprites for Compass
- * by:              Gaya Kessler
- * last update:     01/14/13
- *
- * Usage:
- * 1. create two folders in your image directory (in this case 'icons' and 'icons-2x').
- * 2. adjust the foldernames defined below if you use different names.
- * 3. create sprite images for pixel ratio 1 screens and put them in the first folder.
- * 4. create sprite images for pixel ratio 2 screens and put them in the second folder, use the same filenames.
- * 5. use the sprite-image in your Sass/Scss using: '@include use-sprite(<sprite-name>)'
- */

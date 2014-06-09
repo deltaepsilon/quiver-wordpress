@@ -27,25 +27,100 @@
 <!-- Add your site or application content here -->
 <div class="container" ng-controller="MainCtrl">
     <!-- header -->
-    <header class="clear" role="banner">
-        Header
-        <!-- logo -->
-        <div class="logo">
-            <a href="<?php echo home_url(); ?>">
-                Logo
-                <i class="fa fa-pencil"></i>
+    <header class="header" role="banner">
+        <!-- header image -->
+        <div class="centered-max">
+            <img id="header-image" src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="" />
+            <a id="header-text" class="column small-12" href="<?php echo home_url(); ?>">
+                <h2><?php echo get_bloginfo('name') ?></h2>
+                <h5><?php echo get_bloginfo('description') ?></h5>
             </a>
         </div>
-        <!-- /logo -->
 
         <!-- nav -->
-        <nav class="nav top-bar" role="navigation">
-            <a href="#">Navigation</a>
+        <nav class="nav top-bar column small-12" role="navigation">
+            <section class="top-bar-section">
+                <?php wp_nav_menu(array(
+                    'theme_location' => 'nav-menu'
+                )) ?>
+            </section>
+
         </nav>
         <!-- /nav -->
-
     </header>
     <!-- /header -->
+
+    <!--Centered Content-->
+    <div class="centered-max">
+
+        <!--posts-->
+        <section class="posts column small-12 medium-8 large-10">
+            <?php if (have_posts()): while (have_posts()) : the_post(); ?>
+
+                <!-- article -->
+                <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+
+                    <!-- post thumbnail -->
+                    <?php if ( has_post_thumbnail()) : // Check if thumbnail exists ?>
+                        <a class="post-thumbnail" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                            <?php the_post_thumbnail(array(120,120)); // Declare pixel size you need inside the array ?>
+                        </a>
+                    <?php endif; ?>
+                    <!-- /post thumbnail -->
+
+                    <!-- post title -->
+                    <h2 class="post-title">
+                        <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a>
+                    </h2>
+                    <!-- /post title -->
+
+                    <!-- post details -->
+                    <div class="post-details clearfix">
+                        <span class="post-date"><?php the_time('F j, Y'); ?> <?php the_time('g:i a'); ?></span>
+                        <span class="post-author"><?php _e( 'Published by'); ?> <?php the_author_posts_link(); ?></span>
+                        <span class="post-comments"><?php comments_popup_link( __( 'Leave your thoughts' ), __( '1 Comment', 'html5blank' ), __( '% Comments', 'html5blank' )); ?></span>
+                    </div>
+
+                    <!-- /post details -->
+
+                    <?php edit_post_link(); ?>
+
+                    <hr/>
+
+                </article>
+                <!-- /article -->
+
+            <?php endwhile; ?>
+
+            <?php else: ?>
+
+                <!-- article -->
+                <article>
+                    <h2><?php _e( 'Sorry, nothing to display.'); ?></h2>
+                </article>
+                <!-- /article -->
+
+            <?php endif; ?>
+
+        </section>
+
+        <!--sidebar-->
+        <section class="sidebar column small-12 medium-4 large-2">
+            <?php wp_nav_menu(array(
+                'theme_location' => 'sidebar-menu'
+            )) ?>
+        </section>
+
+    </div>
+
+
+
+    <!--footer-->
+    <footer class="footer column small-12">
+        <?php wp_nav_menu(array(
+            'theme_location' => 'footer-menu'
+        )) ?>
+    </footer>
 </div>
 
 <!--Get JavaScript environment variables-->
