@@ -28,6 +28,20 @@
 <div class="container" ng-controller="MainCtrl">
     <!-- header -->
     <header class="header" role="banner">
+        <div class="centered-max">
+            <section class="">
+                <?php wp_nav_menu(array(
+                    'theme_location' => 'top-menu'
+                )) ?>
+            </section>
+            <ul id="top-sidebar" class="sidebar-section">
+                <?php
+                dynamic_sidebar('top-sidebar');
+                ?>
+            </ul>
+        </div>
+
+
         <!-- header image -->
         <div class="centered-max">
             <img id="header-image" src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="" />
