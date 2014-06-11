@@ -1,5 +1,21 @@
 .footer {
-  @extend .background-secondary3;
+
+  @extend .text-white;
+  position: relative;
+
+  .color-blocks {
+    @extend .text-white;
+    @include absolute(0, 0, 0, 0);
+
+  }
+
+  .color-block {
+    height: 100%;
+  }
+
+  h1, h2, h3, h4, h5, h5 {
+    @extend .text-white;
+  }
 
   a, a:visited {
     @extend .text-white;

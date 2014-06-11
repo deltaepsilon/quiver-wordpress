@@ -1,0 +1,5 @@
+.widget {
+  h2 {
+    @extend .header-block;
+  }
+}

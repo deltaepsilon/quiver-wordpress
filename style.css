@@ -94,7 +94,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
-.background-secondary3, .footer {
+.background-secondary3 {
   background-color: #414141;
 }
 
@@ -109,7 +109,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
-.background-highlight1, #header-text h2, #header-text h5 {
+.background-highlight1, .header-block, #header-text h2, #header-text h5, .widget h2 {
   background-color: rgba(0, 0, 0, 0.6);
 }
 
@@ -214,7 +214,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000329}}
-.text-white, .footer a, .footer a:visited, .footer a:hover, #header-text h2, #header-text h5 {
+.text-white, .footer, .footer .color-blocks, .footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer a, .footer a:visited, .footer a:hover, .header-block, #header-text h2, #header-text h5, .widget h2 {
   color: white;
 }
 
@@ -5456,24 +5456,40 @@ th.hide-for-touch {
     display: table-cell !important;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\000031}}
+.footer {
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\000036}}
+.footer .color-blocks {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000312}}
+.footer .color-block {
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000329}}
 .footer ul {
   overflow: hidden;
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000334}}
 .footer li {
   display: block;
   float: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000339}}
 .footer a {
   display: block;
   margin: 0;
   padding: 0 2rem;
   text-transform: uppercase;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_footer\.scss}line{font-family:\0000347}}
 .footer li:last-of-type a {
   margin-right: 0;
 }
@@ -5486,20 +5502,26 @@ th.hide-for-touch {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\000039}}
-#header-text {
-  text-align: center;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000312}}
-#header-text h2, #header-text h5 {
+.header-block, #header-text h2, #header-text h5, .widget h2 {
   display: inline-block;
   padding: 0 2rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000322}}
-.centered-max, .nav .menu, .footer .menu {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000317}}
+#header-text {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000326}}
+.centered-max, .nav .menu {
   display: block;
   max-width: 960px;
   margin: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000340}}
+.relative {
+  position: relative;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\000032}}

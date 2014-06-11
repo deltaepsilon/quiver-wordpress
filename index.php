@@ -74,6 +74,13 @@
                     </h2>
                     <!-- /post title -->
 
+                    <!-- post content-->
+                    <?php if (is_single()) : ?>
+                        <div id="<?php the_ID();?>" class="post">
+                            <?php the_content(); ?>
+                        </div>
+                    <?php endif;?>
+
                     <!-- post details -->
                     <div class="post-details clearfix">
                         <span class="post-date"><?php the_time('F j, Y'); ?> <?php the_time('g:i a'); ?></span>
@@ -84,6 +91,12 @@
                     <!-- /post details -->
 
                     <?php edit_post_link(); ?>
+
+                    <!-- post comments-->
+                    <?php if (is_single()) {
+                        comments_template();
+                        }
+                    ?>
 
                     <hr/>
 
@@ -106,9 +119,23 @@
 
         <!--sidebar-->
         <section class="sidebar column small-12 medium-4 large-2">
-            <?php wp_nav_menu(array(
-                'theme_location' => 'sidebar-menu'
-            )) ?>
+            <ul id="right-top-sidebar" class="sidebar-section">
+                <?php
+                dynamic_sidebar('right-top-sidebar');
+                ?>
+            </ul>
+
+            <div id="sidebar-menu">
+                <?php wp_nav_menu(array(
+                    'theme_location' => 'sidebar-menu'
+                )) ?>
+            </div>
+
+            <ul id="right-bottom-sidebar" class="sidebar-section">
+                <?php
+                dynamic_sidebar('right-bottom-sidebar');
+                ?>
+            </ul>
         </section>
 
     </div>
@@ -116,10 +143,29 @@
 
 
     <!--footer-->
-    <footer class="footer column small-12">
-        <?php wp_nav_menu(array(
-            'theme_location' => 'footer-menu'
-        )) ?>
+    <footer class="footer left small-12">
+        <div class="color-blocks">
+            <div class="color-block small-6 left background-highlight0"></div>
+            <div class="color-block small-6 right background-secondary2"></div>
+        </div>
+
+
+        <div class="centered-max relative background-secondary3">
+            <div id="footer-menu">
+                <?php wp_nav_menu(array(
+                    'theme_location' => 'footer-menu'
+                )) ?>
+            </div>
+
+            <br/>
+
+            <ul id="footer-sidebar" class="sidebar-section clearfix background-secondary3">
+                <?php
+                dynamic_sidebar('footer-sidebar');
+                ?>
+            </ul>
+        </div>
+
     </footer>
 </div>
 
