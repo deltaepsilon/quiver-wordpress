@@ -1,0 +1,42 @@
+.header {
+  .widget {
+    display: inline;
+    float: left;
+  }
+}
+
+#menu-top-bar, .social-widget {
+  margin: 0;
+
+  li {
+    float: left;
+  }
+
+  a, a:visited {
+    @extend .button;
+    @extend .tiny;
+
+    margin-bottom: 0;
+
+  }
+}
+
+#top-sidebar {
+  margin: 0;
+}
+
+.social-widget {
+  //margin-left: 0.5rem;
+}
+
+#searchform {
+
+  #searchsubmit {
+    @extend .tiny;
+
+    &:before {
+      font-size: rem-calc(12);
+    }
+
+  }
+}

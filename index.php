@@ -15,7 +15,7 @@
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css({.tmp,app}) styles/main.css -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/app/lib/font-awesome/css/font-awesome.css">
+
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
     <!-- endbuild -->
 </head>
@@ -29,12 +29,12 @@
     <!-- header -->
     <header class="header" role="banner">
         <div class="centered-max">
-            <section class="">
+            <section class="left">
                 <?php wp_nav_menu(array(
                     'theme_location' => 'top-menu'
                 )) ?>
             </section>
-            <ul id="top-sidebar" class="sidebar-section">
+            <ul id="top-sidebar" class="sidebar-section left">
                 <?php
                 dynamic_sidebar('top-sidebar');
                 ?>

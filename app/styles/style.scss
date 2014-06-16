@@ -60,10 +60,17 @@
 "../lib/foundation/scss/foundation/components/visibility"
 ;
 
+// FontAwesome Imports
+$fa-font-path: "./app/lib/font-awesome/fonts";
+@import "../lib/font-awesome/scss/variables",
+"../lib/font-awesome/scss/path",
+"../lib/font-awesome/scss/core",
+"../lib/font-awesome/scss/icons";
+
 // Modules
 @import "modules/footer";
 @import "modules/layout";
-@import "modules/nav";
+@import "modules/header";
 @import "modules/posts";
 @import "modules/sidebar";
 @import "modules/widgets";

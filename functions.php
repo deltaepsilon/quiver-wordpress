@@ -160,7 +160,7 @@ FORM;
     public function update( $new_instance, $old_instance ) {
         $instance = array();
         foreach ($this->services as $key => $service) {
-            $instance[$key = $this->getIndex($new_instance, $key);
+            $instance[$key = $this->getIndex($new_instance, $key)];
         }
 
         return $instance;
