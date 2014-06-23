@@ -64,7 +64,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/theme\/_color\.scss}line{font-family:\0000322}}
-.background-primary0 {
+.background-primary0, .reflow-header {
   background-color: #333333;
 }
 
@@ -7780,6 +7780,62 @@ th.hide-for-touch {
   margin-right: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\000031}}
+.nav {
+  height: inherit;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\000035}}
+#menu-top-bar, .social-widget {
+  margin: 0;
+  white-space: nowrap;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\000039}}
+#menu-top-bar a, #menu-top-bar a:visited, .social-widget a, .social-widget a:visited {
+  margin-bottom: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000318}}
+#top-sidebar {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000328}}
+#searchform #s {
+  height: inherit;
+  margin: 0;
+  min-width: 5rem;
+  padding-bottom: 0.4375rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000335}}
+#searchform #searchsubmit {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000340}}
+#searchform #searchsubmit:before {
+  font-size: 0.75rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000350}}
+.reflow-header ul {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000353}}
+.reflow-header ul li {
+  float: left;
+}
+
+@media only screen and (min-width: 64.063em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000360}}
+  .table-row {
+    display: table-row;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000365}}
+  .reflow-list > li {
+    display: table-cell;
+  }
+}
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\000033}}
 #header-image {
   max-width: 960px;
@@ -7801,7 +7857,7 @@ th.hide-for-touch {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_layout\.scss}line{font-family:\0000326}}
 .centered-max, .nav .menu {
   display: block;
-  max-width: 960px;
+  max-width: 64em;
   margin: auto;
 }
 
@@ -7810,33 +7866,9 @@ th.hide-for-touch {
   position: relative;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\000032}}
-.header .widget {
-  display: inline;
-  float: left;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\000038}}
-#menu-top-bar, .social-widget {
-  margin: 0;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000311}}
-#menu-top-bar li, .social-widget li {
-  float: left;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000315}}
-#menu-top-bar a, #menu-top-bar a:visited, .social-widget a, .social-widget a:visited {
-  margin-bottom: 0;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000324}}
-#top-sidebar {
-  margin: 0;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_header\.scss}line{font-family:\0000337}}
-#searchform #searchsubmit:before {
-  font-size: 0.75rem;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_menu\.scss}line{font-family:\000032}}
+.menu li {
+  margin-right: -0.25rem;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\000032}}
@@ -7858,4 +7890,27 @@ th.hide-for-touch {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_posts\.scss}line{font-family:\0000317}}
 .post-title {
   display: inline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_tables\.scss}line{font-family:\000032}}
+.inline-table td {
+  vertical-align: top;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_tables\.scss}line{font-family:\000036}}
+.inline-table .remove-margin {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_tables\.scss}line{font-family:\000039}}
+.inline-table .remove-margin li {
+  display: inline;
+  font-size: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_tables\.scss}line{font-family:\0000316}}
+.table-list {
+  display: table-row;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/christopheresplin\/Development\/quiver-wordpress\/app\/styles\/modules\/_tables\.scss}line{font-family:\0000319}}
+.table-list > li {
+  display: table-cell !important;
 }

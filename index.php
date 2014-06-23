@@ -27,23 +27,21 @@
 <!-- Add your site or application content here -->
 <div class="container" ng-controller="MainCtrl">
     <!-- header -->
-    <header class="header" role="banner">
-        <div class="centered-max">
-            <section class="left">
-                <?php wp_nav_menu(array(
-                    'theme_location' => 'top-menu'
-                )) ?>
-            </section>
-            <ul id="top-sidebar" class="sidebar-section left">
-                <?php
+    <header class="header clearfix" role="banner">
+        <div class="centered-max reflow-header">
+            <?php wp_nav_menu(array(
+                'theme_location' => 'top-menu',
+                'container' => '',
+                'menu_class' => 'reflow-list'
+            )) ?>
+            <?php
                 dynamic_sidebar('top-sidebar');
-                ?>
-            </ul>
+            ?>
         </div>
 
 
         <!-- header image -->
-        <div class="centered-max">
+        <div class="centered-max clearfix">
             <img id="header-image" src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="" />
             <a id="header-text" class="column small-12" href="<?php echo home_url(); ?>">
                 <h2><?php echo get_bloginfo('name') ?></h2>
@@ -65,7 +63,7 @@
     <!-- /header -->
 
     <!--Centered Content-->
-    <div class="centered-max">
+    <div class="centered-max clearfix">
 
         <!--posts-->
         <section class="posts column small-12 medium-8 large-10">
@@ -157,7 +155,7 @@
 
 
     <!--footer-->
-    <footer class="footer left small-12">
+    <footer class="footer left small-12 clearfix">
         <div class="color-blocks">
             <div class="color-block small-6 left background-highlight0"></div>
             <div class="color-block small-6 right background-secondary2"></div>

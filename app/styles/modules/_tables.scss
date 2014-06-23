@@ -1,0 +1,22 @@
+.inline-table {
+  td {
+    vertical-align: top;
+  }
+
+  .remove-margin {
+    margin: 0;
+
+    li {
+      display: inline;
+      font-size: 0;
+    }
+  }
+}
+
+.table-list {
+  display: table-row;
+
+  & > li {
+    display: table-cell !important;
+  }
+}

@@ -2,7 +2,7 @@
     <table>
         <tr>
             <td class="small-12">
-                <input type="text" value="" name="s" id="s" />
+                <input type="text" value="" name="s" id="s" placeholder="Search..." autocomplete="off"/>
             </td>
             <td>
                 <button class="fa fa-search" type="submit" id="searchsubmit"  />

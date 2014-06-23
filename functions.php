@@ -22,7 +22,9 @@ function register_my_sidebars() {
     register_sidebar(array(
         'id' => 'top-sidebar',
         'name' => 'Top Sidebar',
-        'description' => "This sidebar is above all site header."
+        'description' => "This sidebar is above all site header.",
+        'before_widget' => "",
+        'after_widget' => ""
     ));
 
     register_sidebar(array(

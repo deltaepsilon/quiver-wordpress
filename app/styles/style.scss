@@ -68,9 +68,12 @@ $fa-font-path: "./app/lib/font-awesome/fonts";
 "../lib/font-awesome/scss/icons";
 
 // Modules
-@import "modules/footer";
-@import "modules/layout";
-@import "modules/header";
-@import "modules/posts";
-@import "modules/sidebar";
-@import "modules/widgets";
+@import
+"modules/footer",
+"modules/header",
+"modules/layout",
+"modules/menu",
+"modules/posts",
+"modules/sidebar",
+"modules/tables",
+"modules/widgets";
